@@ -1,0 +1,4 @@
+Datasets yang di tes :
+1. Iris
+2. Breast Cancer
+3. Wine
