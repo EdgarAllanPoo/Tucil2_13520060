@@ -47,3 +47,8 @@ Untuk instalasi python, boleh dilihat pada laman https://www.tutorialspoint.com/
 8. Program akan menampilkan hasil convex hull pada layar
 
 9. Program akan berhenti ketika anda menekan tombol "X" pada hasil convex hull yang dikeluarkan
+
+
+## Identitas Pembuat
+
+Library ini dibuat oleh Rheza Rizqullah Ecaldy (13520060)
